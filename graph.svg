@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040"><rect width="1200" height="1040" fill="white"/><g fill="white" stroke="black" stroke-width="3" stroke-linejoin="round">
+<ellipse cx="400" cy="72" rx="90" ry="32"/>
+<text x="400" y="80" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">Начало</text>
+<rect x="200" y="160" width="400" height="70"/>
+<text x="400" y="203" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">sum = 0</text>
+<polygon points="230,290 630,290 570,370 170,370"/>
+<text x="400" y="338" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">Ввод a, n</text>
+<polygon points="180,480 230,430 570,430 620,480 570,530 230,530"/>
+<text x="400" y="473.5" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">Цикл for</text>
+<text x="400" y="502.5" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">i = 0; i ≤ n; i++</text>
+<rect x="160" y="640" width="480" height="80"/>
+<text x="400" y="688" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">denominator = pow(a, pow(2, i))</text>
+<rect x="160" y="800" width="480" height="80"/>
+<text x="400" y="848" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">sum = sum + 1.0 / denominator</text>
+<polygon points="800,640 1140,640 1080,720 740,720"/>
+<text x="940" y="673.5" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">Вывод sum</text>
+<text x="940" y="702.5" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">(6 знаков после запятой)</text>
+<ellipse cx="940" cy="832" rx="90" ry="32"/>
+<text x="940" y="840" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="25">Конец</text>
+<polyline points="400,104 400,160" fill="none"/>
+<polygon points="400,160 405,147 395,147" fill="black" stroke="none"/>
+<polyline points="400,230 400,290" fill="none"/>
+<polygon points="400,290 405,277 395,277" fill="black" stroke="none"/>
+<polyline points="400,370 400,430" fill="none"/>
+<polygon points="400,430 405,417 395,417" fill="black" stroke="none"/>
+<polyline points="400,530 400,640" fill="none"/>
+<polygon points="400,640 405,627 395,627" fill="black" stroke="none"/>
+<polyline points="400,720 400,800" fill="none"/>
+<polygon points="400,800 405,787 395,787" fill="black" stroke="none"/>
+<polyline points="400,880 400,950 80,950 80,480 180,480" fill="none"/>
+<polygon points="180,480 167,475 167,485" fill="black" stroke="none"/>
+<polyline points="620,480 940,480 940,640" fill="none"/>
+<polygon points="940,640 945,627 935,627" fill="black" stroke="none"/>
+<polyline points="940,720 940,800" fill="none"/>
+<polygon points="940,800 945,787 935,787" fill="black" stroke="none"/>
+<text x="490" y="588" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="21">Тело цикла</text>
+<text x="785" y="463" fill="black" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="21">Цикл завершён</text>
+</g></svg>
